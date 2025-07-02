@@ -1,0 +1,21 @@
+<div>
+    <p>@TaskName</p>
+    <button @onclick="MastAsComplete">Mark as Complete</button>
+</div>
+
+@code{
+    [Parameter]
+    public string TaskName {get;set;}
+    [Parameter]
+    public EventCallback<string> OnTaskCompleted{get;set;}
+
+    public void MastAsComplete()
+    {
+        OnTaskCompleted.InvokeAsync(TaskName);
+    }
+
+    protected override void OnParametersSet()
+    {
+        Console.WriteLine($"Taskname is : {TaskName}");
+    }
+}

@@ -199,8 +199,6 @@ C:\shravan\prog\my git codes\LearnBlazor\GroovEcoBlazor\bin\Debug\net9.0\wwwroot
 C:\shravan\prog\my git codes\LearnBlazor\GroovEcoBlazor\bin\Debug\net9.0\wwwroot\_framework\icudt_CJK.tjcz0u77k5.dat
 C:\shravan\prog\my git codes\LearnBlazor\GroovEcoBlazor\bin\Debug\net9.0\wwwroot\_framework\icudt_EFIGS.tptq2av103.dat
 C:\shravan\prog\my git codes\LearnBlazor\GroovEcoBlazor\bin\Debug\net9.0\wwwroot\_framework\icudt_no_CJK.lfu7j35m59.dat
-C:\shravan\prog\my git codes\LearnBlazor\GroovEcoBlazor\bin\Debug\net9.0\wwwroot\_framework\GroovEcoBlazor.vqnpf2ovty.wasm
-C:\shravan\prog\my git codes\LearnBlazor\GroovEcoBlazor\bin\Debug\net9.0\wwwroot\_framework\GroovEcoBlazor.lcmju0nlwz.pdb
 C:\shravan\prog\my git codes\LearnBlazor\GroovEcoBlazor\bin\Debug\net9.0\wwwroot\_framework\blazor.boot.json
 C:\shravan\prog\my git codes\LearnBlazor\GroovEcoBlazor\bin\Debug\net9.0\wwwroot\_framework\blazor.webassembly.js.gz
 C:\shravan\prog\my git codes\LearnBlazor\GroovEcoBlazor\bin\Debug\net9.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.phaa9r44xv.wasm.gz
@@ -403,8 +401,6 @@ C:\shravan\prog\my git codes\LearnBlazor\GroovEcoBlazor\bin\Debug\net9.0\wwwroot
 C:\shravan\prog\my git codes\LearnBlazor\GroovEcoBlazor\bin\Debug\net9.0\wwwroot\_framework\icudt_CJK.tjcz0u77k5.dat.gz
 C:\shravan\prog\my git codes\LearnBlazor\GroovEcoBlazor\bin\Debug\net9.0\wwwroot\_framework\icudt_EFIGS.tptq2av103.dat.gz
 C:\shravan\prog\my git codes\LearnBlazor\GroovEcoBlazor\bin\Debug\net9.0\wwwroot\_framework\icudt_no_CJK.lfu7j35m59.dat.gz
-C:\shravan\prog\my git codes\LearnBlazor\GroovEcoBlazor\bin\Debug\net9.0\wwwroot\_framework\GroovEcoBlazor.vqnpf2ovty.wasm.gz
-C:\shravan\prog\my git codes\LearnBlazor\GroovEcoBlazor\bin\Debug\net9.0\wwwroot\_framework\GroovEcoBlazor.lcmju0nlwz.pdb.gz
 C:\shravan\prog\my git codes\LearnBlazor\GroovEcoBlazor\bin\Debug\net9.0\wwwroot\_framework\blazor.boot.json.gz
 C:\shravan\prog\my git codes\LearnBlazor\GroovEcoBlazor\bin\Debug\net9.0\GroovEcoBlazor.staticwebassets.runtime.json
 C:\shravan\prog\my git codes\LearnBlazor\GroovEcoBlazor\bin\Debug\net9.0\GroovEcoBlazor.staticwebassets.endpoints.json
@@ -1068,9 +1064,6 @@ C:\shravan\prog\my git codes\LearnBlazor\GroovEcoBlazor\obj\Debug\net9.0\compres
 C:\shravan\prog\my git codes\LearnBlazor\GroovEcoBlazor\obj\Debug\net9.0\compressed\0y88e1dq28-tjcz0u77k5.gz
 C:\shravan\prog\my git codes\LearnBlazor\GroovEcoBlazor\obj\Debug\net9.0\compressed\46x0a2t0dp-tptq2av103.gz
 C:\shravan\prog\my git codes\LearnBlazor\GroovEcoBlazor\obj\Debug\net9.0\compressed\zm26xeg17l-lfu7j35m59.gz
-C:\shravan\prog\my git codes\LearnBlazor\GroovEcoBlazor\obj\Debug\net9.0\compressed\1ttsdrqvfj-vqnpf2ovty.gz
-C:\shravan\prog\my git codes\LearnBlazor\GroovEcoBlazor\obj\Debug\net9.0\compressed\9si0z0p5l8-lcmju0nlwz.gz
-C:\shravan\prog\my git codes\LearnBlazor\GroovEcoBlazor\obj\Debug\net9.0\compressed\2bipovxavh-1q97t4ei64.gz
 C:\shravan\prog\my git codes\LearnBlazor\GroovEcoBlazor\obj\Debug\net9.0\staticwebassets.build.json
 C:\shravan\prog\my git codes\LearnBlazor\GroovEcoBlazor\obj\Debug\net9.0\staticwebassets.build.json.cache
 C:\shravan\prog\my git codes\LearnBlazor\GroovEcoBlazor\obj\Debug\net9.0\staticwebassets.development.json
@@ -1080,3 +1073,16 @@ C:\shravan\prog\my git codes\LearnBlazor\GroovEcoBlazor\obj\Debug\net9.0\GroovEc
 C:\shravan\prog\my git codes\LearnBlazor\GroovEcoBlazor\obj\Debug\net9.0\refint\GroovEcoBlazor.dll
 C:\shravan\prog\my git codes\LearnBlazor\GroovEcoBlazor\obj\Debug\net9.0\GroovEcoBlazor.pdb
 C:\shravan\prog\my git codes\LearnBlazor\GroovEcoBlazor\obj\Debug\net9.0\ref\GroovEcoBlazor.dll
+C:\shravan\prog\my git codes\LearnBlazor\GroovEcoBlazor\bin\Debug\net9.0\wwwroot\_framework\Newtonsoft.Json.qkbufwhni2.wasm
+C:\shravan\prog\my git codes\LearnBlazor\GroovEcoBlazor\bin\Debug\net9.0\wwwroot\_framework\Newtonsoft.Json.qkbufwhni2.wasm.gz
+C:\shravan\prog\my git codes\LearnBlazor\GroovEcoBlazor\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\shravan\prog\my git codes\LearnBlazor\GroovEcoBlazor\obj\Debug\net9.0\GroovEcoBlazor.sourcelink.json
+C:\shravan\prog\my git codes\LearnBlazor\GroovEcoBlazor\obj\Debug\net9.0\webcil\Newtonsoft.Json.wasm
+C:\shravan\prog\my git codes\LearnBlazor\GroovEcoBlazor\obj\Debug\net9.0\compressed\hzchacd7lk-qkbufwhni2.gz
+C:\shravan\prog\my git codes\LearnBlazor\GroovEcoBlazor\bin\Debug\net9.0\wwwroot\_framework\GroovEcoBlazor.tf6i0747ht.wasm
+C:\shravan\prog\my git codes\LearnBlazor\GroovEcoBlazor\bin\Debug\net9.0\wwwroot\_framework\GroovEcoBlazor.ymqf9piw7s.pdb
+C:\shravan\prog\my git codes\LearnBlazor\GroovEcoBlazor\bin\Debug\net9.0\wwwroot\_framework\GroovEcoBlazor.tf6i0747ht.wasm.gz
+C:\shravan\prog\my git codes\LearnBlazor\GroovEcoBlazor\bin\Debug\net9.0\wwwroot\_framework\GroovEcoBlazor.ymqf9piw7s.pdb.gz
+C:\shravan\prog\my git codes\LearnBlazor\GroovEcoBlazor\obj\Debug\net9.0\compressed\1ttsdrqvfj-tf6i0747ht.gz
+C:\shravan\prog\my git codes\LearnBlazor\GroovEcoBlazor\obj\Debug\net9.0\compressed\9si0z0p5l8-ymqf9piw7s.gz
+C:\shravan\prog\my git codes\LearnBlazor\GroovEcoBlazor\obj\Debug\net9.0\compressed\2bipovxavh-s7kl90vja7.gz
