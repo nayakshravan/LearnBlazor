@@ -1079,10 +1079,10 @@ C:\shravan\prog\my git codes\LearnBlazor\GroovEcoBlazor\bin\Debug\net9.0\Newtons
 C:\shravan\prog\my git codes\LearnBlazor\GroovEcoBlazor\obj\Debug\net9.0\GroovEcoBlazor.sourcelink.json
 C:\shravan\prog\my git codes\LearnBlazor\GroovEcoBlazor\obj\Debug\net9.0\webcil\Newtonsoft.Json.wasm
 C:\shravan\prog\my git codes\LearnBlazor\GroovEcoBlazor\obj\Debug\net9.0\compressed\hzchacd7lk-qkbufwhni2.gz
-C:\shravan\prog\my git codes\LearnBlazor\GroovEcoBlazor\bin\Debug\net9.0\wwwroot\_framework\GroovEcoBlazor.tf6i0747ht.wasm
-C:\shravan\prog\my git codes\LearnBlazor\GroovEcoBlazor\bin\Debug\net9.0\wwwroot\_framework\GroovEcoBlazor.ymqf9piw7s.pdb
-C:\shravan\prog\my git codes\LearnBlazor\GroovEcoBlazor\bin\Debug\net9.0\wwwroot\_framework\GroovEcoBlazor.tf6i0747ht.wasm.gz
-C:\shravan\prog\my git codes\LearnBlazor\GroovEcoBlazor\bin\Debug\net9.0\wwwroot\_framework\GroovEcoBlazor.ymqf9piw7s.pdb.gz
-C:\shravan\prog\my git codes\LearnBlazor\GroovEcoBlazor\obj\Debug\net9.0\compressed\1ttsdrqvfj-tf6i0747ht.gz
-C:\shravan\prog\my git codes\LearnBlazor\GroovEcoBlazor\obj\Debug\net9.0\compressed\9si0z0p5l8-ymqf9piw7s.gz
-C:\shravan\prog\my git codes\LearnBlazor\GroovEcoBlazor\obj\Debug\net9.0\compressed\2bipovxavh-s7kl90vja7.gz
+C:\shravan\prog\my git codes\LearnBlazor\GroovEcoBlazor\bin\Debug\net9.0\wwwroot\_framework\GroovEcoBlazor.iigcj3sqz6.wasm
+C:\shravan\prog\my git codes\LearnBlazor\GroovEcoBlazor\bin\Debug\net9.0\wwwroot\_framework\GroovEcoBlazor.l9gcncmhqz.pdb
+C:\shravan\prog\my git codes\LearnBlazor\GroovEcoBlazor\bin\Debug\net9.0\wwwroot\_framework\GroovEcoBlazor.iigcj3sqz6.wasm.gz
+C:\shravan\prog\my git codes\LearnBlazor\GroovEcoBlazor\bin\Debug\net9.0\wwwroot\_framework\GroovEcoBlazor.l9gcncmhqz.pdb.gz
+C:\shravan\prog\my git codes\LearnBlazor\GroovEcoBlazor\obj\Debug\net9.0\compressed\1ttsdrqvfj-iigcj3sqz6.gz
+C:\shravan\prog\my git codes\LearnBlazor\GroovEcoBlazor\obj\Debug\net9.0\compressed\9si0z0p5l8-l9gcncmhqz.gz
+C:\shravan\prog\my git codes\LearnBlazor\GroovEcoBlazor\obj\Debug\net9.0\compressed\2bipovxavh-0n1fxzuhp1.gz

@@ -1,6 +1,6 @@
 <div>
     <p>@TaskName</p>
-    <button @onclick="MastAsComplete">Mark as Complete</button>
+    <button @onclick="MarkAsComplete">Mark as Complete</button>
 </div>
 
 @code{
@@ -9,7 +9,7 @@
     [Parameter]
     public EventCallback<string> OnTaskCompleted{get;set;}
 
-    public void MastAsComplete()
+    public void MarkAsComplete()
     {
         OnTaskCompleted.InvokeAsync(TaskName);
     }

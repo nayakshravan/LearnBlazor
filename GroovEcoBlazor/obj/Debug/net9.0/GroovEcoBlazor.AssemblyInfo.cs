@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GroovEcoBlazor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7bb9f6fa5a949ea48d9b6a867e5feb6ace1e4f3b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4fe82b414c4eb7cd4bd93733d869bf618e33eda")]
 [assembly: System.Reflection.AssemblyProductAttribute("GroovEcoBlazor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GroovEcoBlazor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

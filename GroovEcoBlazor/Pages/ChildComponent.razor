@@ -4,6 +4,9 @@
     [Parameter]
     public EventCallback OnNotifyParent { get; set; }
 
+    [Parameter]
+    public EventCallback<Recipe> OnRecipeSelected {get;set;}
+
     private async Task NotifyParent()
     {
         if (OnNotifyParent.HasDelegate)
@@ -11,4 +14,19 @@
             await OnNotifyParent.InvokeAsync();
         }
     }
+
+    private List<Recipe> recipes=new()
+        {
+            new Recipe{Id=1, Name="Spaghetti Bolognese", Description="Classic Italian pasta dish."},
+            new Recipe{Id=1, Name="Chicken curry", Description="Flavorful Indian curry."}
+        };
+
+    private void SelectRecipe(int recipeId)
+    {
+        var selectedRecipe=recipes.FirstOrDefault(r=>r.Id==recipeId);
+        if(selectedRecipe!=null)
+        {
+            OnRecipeSelected.InvokeAsync(selectedRecipe);
+        }
+    }
 }
