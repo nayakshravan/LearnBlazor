@@ -1,0 +1,21 @@
+@inject AppState State
+
+<h4>Add Event</h4>
+
+<EditForm Model="@newEvent" OnValidSubmit="AddEvent">
+    <InputText @bind-Value="newEvent.Name" class="form-control" placeholder="Event Name" />
+    <InputDate @bind-Value="newEvent.Date" class="form-control" />
+    <InputText @bind-Value="newEvent.Location" class="form-control" placeholder="Location" />
+    <button class="btn btn-success mt-2" type="submit">Add</button>
+</EditForm>
+
+@code {
+    private EventModel newEvent = new() { Date = DateTime.Today };
+
+    private void AddEvent()
+    {
+        newEvent.Id = Guid.NewGuid().GetHashCode(); // Unique ID for now
+        State.AddEvent(newEvent);
+        newEvent = new() { Date = DateTime.Today };
+    }
+}

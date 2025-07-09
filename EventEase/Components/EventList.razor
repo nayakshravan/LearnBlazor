@@ -1,0 +1,75 @@
+@inject NavigationManager Navigation
+@inject AppState State
+@page "/events"
+
+<style>
+    .event-card {
+        border: 1px solid #ddd;
+        border-radius: 6px;
+        padding: 1rem;
+        max-width: 600px;
+    }
+
+    .btn-uniform {
+        width: 100px;
+        height: 36px;
+    }
+</style>
+
+<h3>Upcoming Events</h3>
+
+@if (State.Events.Count == 0)
+{
+    <p>No events found.</p>
+}
+else
+{
+    <div class="row">
+        @foreach (var ev in State.Events)
+        {
+            <div class="card d-flex flex-row align-items-start justify-content-between mb-3 p-3">
+                <!-- Event content -->
+                <div class="pe-3">
+                    @if (editingId == ev.Id)
+                    {
+                        <EditForm Model="@ev">
+                            <InputText class="form-control mb-2" @bind-Value="ev.Name" />
+                            <InputDate class="form-control mb-2" @bind-Value="ev.Date" />
+                            <InputText class="form-control mb-2" @bind-Value="ev.Location" />
+                        </EditForm>
+                    }
+                    else
+                    {
+                        <h5 class="mb-1">@ev.Name</h5>
+                        <small>@ev.Date.ToString("dd MMM yyyy")</small>
+                        <p class="mb-0 text-muted">📍 @ev.Location</p>
+                    }
+                </div>
+
+                <!-- Button group -->
+                <div class="d-flex flex-column gap-2 ms-auto">
+                    <button class="btn btn-outline-primary btn-uniform"
+                            @onclick="() => ToggleEdit(ev.Id)">
+                        @(editingId == ev.Id ? "Cancel" : "Edit")
+                    </button>
+                    <button class="btn btn-outline-danger btn-uniform" @onclick="() => Delete(ev.Id)">
+                        Delete
+                    </button>
+                </div>
+            </div>
+        }
+
+
+    </div>
+}
+
+@code {
+    private int editingId = -1;
+
+    private void ToggleEdit(int id)
+    {
+        editingId = id;
+    }
+
+    private void Delete(int id) => State.DeleteEvent(id);
+}

@@ -1,0 +1,26 @@
+﻿@page "/"
+
+@inject AppState State
+
+@code {
+    protected override void OnInitialized()
+    {
+        State.OnChange += StateHasChanged;
+    }
+    public void Dispose() => State.OnChange -= StateHasChanged;
+}
+
+<h3>Most Recent Event</h3>
+
+@if (State.Events.Any())
+{
+    <EventCard Event="@State.Events.Last()" />
+}
+else
+{
+    <p>No events yet.</p>
+}
+
+<NavLink href="/events" class="btn btn-primary mt-3">Browse All Events</NavLink>
+
+<AddEventCard />
